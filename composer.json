@@ -1,0 +1,16 @@
+{
+  "name": "328/pets",
+  "authors": [
+    {
+      "name": "Conner Anderson",
+      "email": "canderson109@mail.greenriver.edu"
+    },
+    {
+      "name": "Julia Evans",
+      "email": "jevins8@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
