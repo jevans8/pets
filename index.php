@@ -15,10 +15,10 @@ $f3->route('GET /', function(){
     echo '<h1>Pet Home</h1>';
 
     //instantiate new template object
-    //$view = new Template();
+    $view = new Template();
 
     //display home page via render method
-    //echo $view->render('views/home.html');
+    echo $view->render('views/home.html');
 
 });
 
